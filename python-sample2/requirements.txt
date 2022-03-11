@@ -1,0 +1,5 @@
+nose
+sphinx
+requests==2.23.0
+dnspython==1.16.0
+lxml==4.6.0
