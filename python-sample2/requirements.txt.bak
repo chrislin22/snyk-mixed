@@ -2,4 +2,5 @@ nose
 sphinx
 requests==2.23.0
 dnspython==1.16.0
-django==1.9.10
+#lxml==4.6.0
+Plone==4.2

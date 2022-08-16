@@ -17,6 +17,9 @@ limitations under the License.
 package main
 
 import (
+	"github.com/go-playground/validator"
+	"github.com/kelseyhightower/envconfig"
+	"github.com/riptano/cloud-platform-libs/v2/dslog"
 	"fmt"
 
 	"golang.org/x/example/stringutil"
